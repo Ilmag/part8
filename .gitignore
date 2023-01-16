@@ -1,0 +1,3 @@
+library-backend/node_modules
+library-frontend/node_modules
+library-backend/.env
